@@ -13,5 +13,6 @@
 #import "UIAlertView+Blocks.h"
 #import "UIScrollView+TTouchEndEditing.h"
 #import "UIView+ChangePartFrame.h"
+#import "UIView+TBasicTools.h"
 
 #endif
